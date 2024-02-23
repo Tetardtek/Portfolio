@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "title": "Toutdoux",
+      "description": "Todo list",
+      "techno": "HTML / CSS / JavaScript",
+      "img": "/assets/png/Toutdoux.png",
+      "link": "https://wildcodeschool-2023-09.github.io/JS-RemoteFR-jurascripts-P1-4Fantascripts/",
+      "github": "https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P1-4Fantascripts"
+    },
+    {
+      "title": "Stupeflix",
+      "description": "Quizz & Battle game in Harry Potter Univers",
+      "techno": "HTML / SASS / React",
+      "img": "/assets/png/Hogwart.png",
+      "link": "https://truestupeflix.vercel.app/",
+      "github": "https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P2-Stupeflix"
+    },
+    {
+      "title": "Origin's Digital",
+      "description": "Fremium model based on video uploading",
+      "techno": "HTML / SASS / React / Node / Express / MySQL",
+      "img": "/assets/png/Origins.png",
+      "link": "https://origins.remote-6.wilders.dev/",
+      "github": "https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P3-Originsdigital"
+    },
+    {
+      "title": "Xmass Click",
+      "description": "Hackathon #1, TrueQuiLeaks team, 1st place a simple clicker game",
+      "techno": "HTML / SASS / React",
+      "img": "/assets/png/Xmass.png",
+      "link": "https://www.xmass.click/",
+      "github": "https://github.com/Batsave/Xmass-Click"
+    },
+    {
+      "title": "L'Oréal Professionel",
+      "description": "Hackathon #2, TrueQuiLeaks team, Finalist, B2B website with ChatBot",
+      "techno": "HTML / SASS / React / Node / Express / MySQL / ChatGPT",
+      "img": "/assets/png/Loreal.png",
+      "img2": "/assets/png/Loreal2.png",
+      "img3": "/assets/png/Loreal3.png",
+      "link": "https://b2b-loreal.remote-fr-2.wilders.dev/",
+      "github": "https://github.com/Batsave/Hackathon-2"
+    }
+  ]
+}
