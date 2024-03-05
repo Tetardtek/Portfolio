@@ -6,7 +6,7 @@
       "techno": "HTML / CSS / JavaScript",
       "img": "/assets/png/Toutdoux.png",
       "link": "https://wildcodeschool-2023-09.github.io/JS-RemoteFR-jurascripts-P1-4Fantascripts/",
-      "github": "https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P1-4Fantascripts"
+      "github": "https://github.com/Tetardtek/P1-ToutDoux"
     },
     {
       "title": "Stupeflix",
@@ -14,7 +14,7 @@
       "techno": "HTML / SASS / React",
       "img": "/assets/png/Hogwart.png",
       "link": "https://truestupeflix.vercel.app/",
-      "github": "https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P2-Stupeflix"
+      "github": "https://github.com/Tetardtek/P2-Stupeflix"
     },
     {
       "title": "Origin's Digital",
@@ -22,7 +22,7 @@
       "techno": "HTML / SASS / React / Node / Express / MySQL",
       "img": "/assets/png/Origins.png",
       "link": "https://originsdigital.remote-6.wilders.dev/",
-      "github": "https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P3-Originsdigital"
+      "github": "https://github.com/Tetardtek/P3-Originsdigital"
     },
     {
       "title": "Xmass Click",
@@ -30,7 +30,7 @@
       "techno": "HTML / SASS / React",
       "img": "/assets/png/Xmass.png",
       "link": "https://www.xmass.click/",
-      "github": "https://github.com/Batsave/Xmass-Click"
+      "github": "https://github.com/Tetardtek/H1-XmassClick"
     },
     {
       "title": "L'Oréal Professionnel",
@@ -40,7 +40,7 @@
       "img2": "/assets/png/Loreal2.png",
       "img3": "/assets/png/Loreal3.png",
       "link": "https://b2b-loreal.remote-fr-2.wilders.dev/",
-      "github": "https://github.com/Batsave/Hackathon-2"
+      "github": "https://github.com/Tetardtek/H2-LorealProfesionnel"
     }
   ]
 }

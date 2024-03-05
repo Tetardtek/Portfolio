@@ -2,8 +2,17 @@ export default function Head() {
   return (
     <>
       <div className="btn rounded-lg inline-block">
-        <div className="btn-in rounded-lg">
-          <div className="flex justify-around">
+        <div className="flex justify-around">
+          <img
+            className="btn-in rounded-lg"
+            src="/assets/png/HEADER.png"
+            alt="Header Image"
+          />
+        </div>
+        <br />
+
+        <div className="flex justify-around">
+          <div className="btn-in rounded-lg">
             <a
               href="https://discord.com/users/235413280103858176"
               target="_blank"
@@ -32,10 +41,6 @@ export default function Head() {
               />
             </a>
           </div>
-          <br />
-          <h2 className="title2 text-left">Kevin Turnaco</h2>
-          <br />
-          <div className="flex justify-around">
           &nbsp; &nbsp; Here is my portfolio, I am a web developer and I am
           looking for a job.
           <br />
@@ -43,11 +48,11 @@ export default function Head() {
           <br />
           <br />
           &nbsp; If you want to contact me, you can do it through the contact
-          form. 
+          form.
           <br />
           I will be happy to answer you.
           <br />
-          </div>
+          <br />
         </div>
       </div>
     </>
