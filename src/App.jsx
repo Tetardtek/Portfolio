@@ -1,6 +1,7 @@
 import Head from "./components/Head";
 import Projects from "./components/Projects";
 import Technos from "./components/Technos";
+import Mentions from "./components/Mentions";
 import Footer from "./components/Footer";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
         <Head />
         <Projects />
         <Technos />
+        <Mentions />
         <Footer />
       </div>
     </>
