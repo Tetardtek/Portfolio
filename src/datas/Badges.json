@@ -3,32 +3,32 @@
     {
       "name": "Checkpoint 1",
       "description": "Checkpoint 1",
-      "image": "assets/png/badges/checkpoint1.png"
+      "image": "/assets/png/badges/checkpoint1.png"
     },
     {
       "name": "Checkpoint 2",
       "description": "Checkpoint 2",
-      "image": "assets/png/badges/checkpoint2.png"
+      "image": "/assets/png/badges/checkpoint2.png"
     },
     {
       "name": "Checkpoint 3",
       "description": "Checkpoint 3",
-      "image": "assets/png/badges/checkpoint3.png"
+      "image": "/assets/png/badges/checkpoint3.png"
     },
     {
       "name": "Hackathon",
       "description": "Hackathon",
-      "image": "assets/png/badges/hackathon.png"
+      "image": "/assets/png/badges/hackathon.png"
     },
     {
       "name": "Webtester",
       "description": "Webtester",
-      "image": "assets/png/badges/webtester.png"
+      "image": "/assets/png/badges/webtester.png"
     },
     {
       "name": "Wilders",
-      "description": "wilders",
-      "image": "assets/png/badges/wilders.png"
+      "description": "Wilders du mois",
+      "image": "/assets/png/badges/wilders.png"
     }
   ]
 }

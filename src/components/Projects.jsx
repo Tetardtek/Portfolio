@@ -23,7 +23,7 @@ function Projects() {
                 className="flex flex-col items-center justify-center"
                 key={project.title}
               >
-                <h2 className="text-2xl hover:text-w-purple">
+                <h2 className="text-base hover:text-w-purple">
                   <a href={project.link}>{project.title}</a>
                 </h2>
                 <br />
