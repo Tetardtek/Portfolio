@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/tetardtek/github/xmassClick
+cd /home/tetardtek/github/Portfolio
 git fetch origin main
 LOCAL=$(git rev-parse HEAD)
 REMOTE=$(git rev-parse origin/main)
